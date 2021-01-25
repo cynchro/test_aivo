@@ -3,7 +3,7 @@
 
 ## api url 
 
-Esta aplicacion permite buscar albums de una artista mediante la siguiente api.
+Esta aplicacion permite buscar albums de una artista donde q=[nombre de artista] realiza una busqueda contra spotify utilizando su segurizacion mediante la siguiente api.
 
     http://localhost:8080/api/v1/albums?q=
     
